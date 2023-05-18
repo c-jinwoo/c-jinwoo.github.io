@@ -1794,6 +1794,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .sidebar, article { width: auto; }
 
+  article { }
 
 
 
